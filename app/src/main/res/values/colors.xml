@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deepBlue">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_blue">#6452f0</color>
+
+    <array name="forecastColors">
+        <item name="forecastOne" type="color">#28E0AE</item>
+        <item name="forecastTwo" type="color">#ff0090</item>
+        <item name="forecastThree" type="color">#FFAE00</item>
+        <item name="forecastFour" type="color">#3F51B5</item>
+        <item name="forecastFive" type="color">#FE5050</item>
+    </array>
+
+</resources>
